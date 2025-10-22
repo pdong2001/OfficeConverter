@@ -1,0 +1,36 @@
+{
+  "FileName": "sample_input.xlsx",
+  "Worksheets": [
+    {
+      "Name": "SampleData",
+      "Rows": [
+        [
+          "Name",
+          "Age",
+          "City"
+        ],
+        [
+          "Alice",
+          25.0,
+          "New York"
+        ],
+        [
+          "Bob",
+          30.0,
+          "Los Angeles"
+        ]
+      ],
+      "Images": [
+        {
+          "Name": "Image 1",
+          "Description": "Picture",
+          "Row": 0,
+          "Column": 4,
+          "Width": 64,
+          "Height": 64,
+          "FilePath": "extracted_images/SampleData_Image 1.png"
+        }
+      ]
+    }
+  ]
+}
